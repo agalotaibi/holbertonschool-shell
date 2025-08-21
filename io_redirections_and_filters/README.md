@@ -1,0 +1,1 @@
+thi dir is about working wiht sell I/O to solve a lot of problem
