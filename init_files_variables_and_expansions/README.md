@@ -1,0 +1,1 @@
+sloving a task about shell int file and varibulse
